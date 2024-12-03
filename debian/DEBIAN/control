@@ -1,0 +1,5 @@
+Package: nodehub-x5-rdkmodelzoo-samples
+Version: 1.0.0
+Architecture: arm64
+Maintainer: D-Robotics
+Description: make rdk model zoo repository to deb package.
